@@ -1,0 +1,17 @@
+<table>
+  <tr>
+    <th>hii</th>
+    <th>hello</th>
+    <th>my page </th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>my Anders</td>
+    <td>INDIA</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
